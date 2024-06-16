@@ -1,0 +1,9 @@
+.ar {
+    font-family: 'Amiri Quran', serif;
+}
+.heading{
+    margin: 10px 0;
+}
+main .point .ar{
+    font-size: 22px;
+}
